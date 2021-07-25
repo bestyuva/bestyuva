@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Yuvaraj P @bestyuva
-- 👀 I’m interested in Selenium Python Automation  / AI / machine Learning / Algorithms 
-- 🌱 I’m currently learning Data Visualization tool Tableau
-- 💞️ I’m looking to collaborate with Data Seince Professionals 
+- 👋 This is Yuvaraj P @bestyuva
+- 👀 I’m exploring with Selenium Python Automation  / AI / machine Learning / Algorithms 
+- 🌱 currently learning Data Visualization tool Tableau
+- 💞️ Looking to collaborate with Data Seince Professionals 
 - 📫 How to reach me : bestyuva@gmail.com / +91 9944375880
 
 <!---
