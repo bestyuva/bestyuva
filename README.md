@@ -1,7 +1,7 @@
 - 👋 This is Yuvaraj P @bestyuva
 - 👀 I’m exploring with Selenium Python Automation  / DevOps Cloud Environment
 - 🌱 Good at Kubernetes, Stack creation, Rancher Cluster 
-- 💞️ Looking to collaborate with Automation QA / Data Science Professionals 
+- 💞️ Looking to collaborate with Automation QA / Selenium Testers / python coding
 - 📫 How to reach me : yuvaraj.qa6@gmail.com / +91 9944375880 
 
 <!---
